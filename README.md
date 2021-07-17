@@ -1,6 +1,6 @@
-# concurrent_server
+# concurrent stock server
 
-sogang univ. 2021 system programming project 5
+Sogang univ. 2021 system programming project 5
 
 ## 
 
