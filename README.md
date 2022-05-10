@@ -6,7 +6,7 @@ Sogang univ. 2021 system programming project 5
 
 project_1: Event-driven Approach server
 
-project_2: Event-driven Approach server
+project_2: Thread-based Approach server
 
 
 ###  compile
